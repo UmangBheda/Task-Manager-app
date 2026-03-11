@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager
 
 A modern, responsive Task Manager web application built with React.js and TailwindCSS.
@@ -78,3 +79,6 @@ This project is ready to deploy on:
 - **Vercel** — `npm run build` then deploy the `build/` folder
 - **Netlify** — Set build command to `npm run build` and publish directory to `build`
 - **GitHub Pages** — Add `"homepage"` to package.json and use `gh-pages`
+=======
+# Task-Manager-app
+>>>>>>> 91627156f0a34170f64f2da81638d1a68cdfe891
